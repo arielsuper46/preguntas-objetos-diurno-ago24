@@ -1,10 +1,9 @@
-# preguntas-objetos-diurno-ago24
-Indicaciones generales:
+# Indicaciones generales para Preguntas 
 
 # Nombre: 
 - El archivo a subir no debe tener espacios ni caracteres especiales
 - El formato del archivo a subir será .txt (archivo de texto)
-- Ejemplo del formato: semana<numero>-tema-nombre.txt
+- Ejemplo del formato: semana(numero)-tema-nombre.txt (si tu nombre se repite, añade la primera letra de tu primer apellido)
 
 # Contenidos:
 - Por cada archivo van a haber 3 preguntas

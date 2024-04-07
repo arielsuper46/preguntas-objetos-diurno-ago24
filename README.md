@@ -9,7 +9,8 @@
 - 3 preguntas por archivo
 - 3 respuestas por pregunta
 - En cada pregunta se debe incluir la respuesta correcta
-**en el archivo EJEMPLO.txt existe un ejemplo (bruh) del archivo a subir
+
+en el archivo EJEMPLO.txt existe un ejemplo (bruh) del archivo a subir
 
 # Pull request:
 - No sé, tú sólo manda el archivo como un commit, voy a revisar si está correcto y después lo incluyo en la main branch

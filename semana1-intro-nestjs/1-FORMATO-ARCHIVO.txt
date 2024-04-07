@@ -1,0 +1,10 @@
+//  El archivo debe ser subido con formato .txt
+//  el nombre del archivo debe ser subido en el siguiente formato: semana<numero>-tema-nombre.txt
+//      Ejemplo: semana1-intro-nestjs-erick.txt (si tu nombre se repite, pon la primera letra de tu apellido)
+//  Ejemplo del contenido
+
+¿Cuál es la respuesta correcta a esta pregunta?[]
+A.  esta
+B.  Tal vez esta
+C.  Esta no XD
+ANSWER: C

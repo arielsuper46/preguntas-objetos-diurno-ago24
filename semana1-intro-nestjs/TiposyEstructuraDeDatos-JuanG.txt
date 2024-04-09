@@ -1,0 +1,16 @@
+Preguntas reflexivas:
+
+1. ¿Qué tipos de comillas son admitidas en los strings?
+a. Comillas simples
+b. Comillas triples
+c. El string va sin comillas
+
+2. ¿Cuál es el límite numérico de un dato number?
+a. 1.000.000
+b. 1.000
+c. Ninguno, no tiene límites
+
+3. ¿Cuál es la salida de un dato booleano?
+a. String
+b. True/False
+c. Number

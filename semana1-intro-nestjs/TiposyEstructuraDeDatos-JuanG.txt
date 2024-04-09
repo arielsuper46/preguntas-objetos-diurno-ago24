@@ -13,4 +13,4 @@ c. Ninguno, no tiene límites
 3. ¿Cuál es la salida de un dato booleano?
 a. String
 b. True/False
-c. Number
+c. Number 

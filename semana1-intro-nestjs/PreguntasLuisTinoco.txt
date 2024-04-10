@@ -1,0 +1,21 @@
+Preguntas
+¿Cuál de las siguientes afirmaciones describe mejor Express y Fastify?
+a) Ambos son frameworks de backend para Node.js
+b) Express es un framework de frontend y Fastify es un framework de backend
+c) Fastify es un motor de plantillas y Express es un servidor de base de datos
+d) Ninguna de las anteriores
+Respuesta correcta: a) Ambos son frameworks de backend para Node.js
+
+¿Cuál de los siguientes frameworks es conocido por su velocidad de ejecución superior y bajo consumo de recursos?
+a) Express
+b) Fastify
+c) Django
+d) Flask
+Respuesta correcta: b) Fastify
+
+¿Cuál de los siguientes es un beneficio de usar Express sobre Fastify?
+a) Mayor rendimiento
+b) Mejor soporte de TypeScript
+c) Mayor número de plugins disponibles
+d) Mejor integración con GraphQL
+Respuesta correcta: c) Mayor número de plugins disponibles

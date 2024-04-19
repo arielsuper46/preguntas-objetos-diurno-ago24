@@ -29,5 +29,6 @@ d) Verifica la disponibilidad de un recurso sin descargarlo completamente.
     
 `Explicación:** Con una solicitud HTTP GET, los datos se envían como parámetros de consulta en la URL. Estos parámetros se adjuntan a la URL después del signo de interrogación (?) y se utilizan para especificar los criterios de búsqueda, filtros u otras instrucciones para la solicitud.`
 
-link de youtube
+
+link del youtube
 https://youtu.be/Z_WDwykDXwQ

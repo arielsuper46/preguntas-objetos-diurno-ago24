@@ -1,4 +1,6 @@
 Preguntas Semana 3
+by: Calle Alex
+youtube: https://youtu.be/R-T-f33lOtM
 
 1. ¿Cuál es la función del decorador @Injectable en NestJS?
 

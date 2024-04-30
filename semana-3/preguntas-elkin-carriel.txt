@@ -1,3 +1,5 @@
+Preguntas-3 Servicios de Nestjs
+
 1. ¿Cuál es el propósito principal de un servicio en NestJS? 
 a) Manejar las solicitudes HTTP 
 ===b) Mantener la lógica de negocio de una aplicación ===
@@ -24,6 +26,3 @@ d) Ninguna de las anteriores
 
 `**Respuesta correcta: a) Indicar que la clase es un servicio y debe ser inyectada en otros componentes**`
 `Explicación: La anotación `@Injectable()` en NestJS marca una clase como un servicio. Indica al framework que esta clase puede ser inyectada como una dependencia en otros componentes, como controladores, otros servicios, etc`
-
-Link de youtube:
-https://youtu.be/656-hiBwO7M

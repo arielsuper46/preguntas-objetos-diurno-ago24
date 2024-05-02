@@ -1,0 +1,19 @@
+¿Qué función tiene el cliente de Prisma (@prisma/client) en un proyecto?
+A) Proporcionar métodos y funciones para ejecutar consultas y manipular datos en la base de datos.
+B) Generar automáticamente modelos TypeScript a partir de la base de datos.
+C) Configurar las rutas de conexión a la base de datos.
+Respuesta Correcta: A)El cliente de Prisma (@prisma/client) permite interactuar con la base de datos de manera segura y eficiente mediante métodos y funciones para ejecutar consultas y manipular datos.
+
+
+¿Cuál es el propósito de npx prisma init en un proyecto Prisma?
+A) Instalar Prisma en el proyecto.
+B) Configurar los archivos de conexión a la base de datos.
+C) Inicializar y configurar los archivos necesarios para la base de datos, como schema.prisma.
+Respuesta Correcta: C)Porque  npx prisma init inicializa y configura los archivos necesarios para la base de datos, como el schema.prisma, que define el modelo de datos y establece la conexión con la base de datos.
+
+
+¿Qué plataforma se utiliza para el despliegue en la nube de la aplicación y la base de datos PostgreSQL?
+A) Railway
+B) Prisma Cloud
+C) Heroku
+Respuesta Correcta: A) RailwayExplicación: Railway es la plataforma mencionada para el despliegue en la nube de la aplicación y la base de datos PostgreSQL.

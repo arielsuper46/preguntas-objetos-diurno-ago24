@@ -1,0 +1,25 @@
+1. ¿Cuál es el comando CLI para instalar NestJS?
+a) npm install nestjs
+b) npm install -g @nestjs/cli
+c) npm install -g nestjs
+Respuesta: b)
+
+Explicación: La opción correcta es b) porque el comando `npm install -g @nestjs/cli` instala el CLI (Command Line Interface) de NestJS globalmente en el sistema, lo que permite acceder a comandos como `nest new` para crear nuevos proyectos de NestJS.
+
+2. ¿Cuál es el motor de Node.js?
+a) V8
+b) SpiderMonkey
+c) ChakraCore
+Respuesta: a)
+   
+Explicación: La opción correcta es a) porque el motor principal utilizado por Node.js es V8, desarrollado por Google. Es el motor de JavaScript de código abierto utilizado en Google Chrome y en Node.js.
+
+   
+
+3. ¿Cómo impactan los decoradores de Prettier y ESLint en el desarrollo con Node.js?
+a) Añaden complejidad y pueden generar conflictos en la configuración.
+b) No tienen relación con Node.js y su uso es irrelevante en este contexto.
+c) Mejoran la legibilidad del código y facilitan el mantenimiento.
+Respuesta: c)
+
+Explicación: La opción correcta es c) porque tanto Prettier como ESLint pueden mejorar la legibilidad del código y facilitar el mantenimiento al permitir la aplicación consistente de reglas de estilo y la detección de errores en el código. Esto es útil en el desarrollo con Node.js para mantener un código limpio y fácil de entender.
